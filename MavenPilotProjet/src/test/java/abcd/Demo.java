@@ -7,6 +7,8 @@ public class Demo {
 	@Test
 	public void testa () {
 		Reporter.log("Test method tes",true);
+		//added something
+		
 	}
 	
 	
